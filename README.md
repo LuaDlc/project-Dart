@@ -1,16 +1,16 @@
 # project-Dart
-## rock, paper and scissors
+## rock, paper and scissors 🎮
 
 Este projeto foi feito através deste [video](https://www.youtube.com/watch?v=XoZ01mY-cUg&t=2s)
 
 - O que é?
 Este é um jogo com dois jogadores, o usuário e a máquina
-Consiste em cada um escolher pedra, papel ou tesoura
+Consiste em cada um escolher 🪨 pedra, 📰 papel ou ✂️ tesoura
 ---
-Se jogador1 == pedra && jogador2 == tesoura: jogador1 win
+Se jogador1 == pedra && jogador2 == tesoura: jogador1 win 
 SE jogador1 == papel && jogador2 == pedra: jogador1 win
 Se jogador1 == tesoura && jogador2 == papel: jogador1 win
-Se jogador1 == jogador2: draw
+Se jogador1 == jogador2: draw 
 
 
 ---
@@ -21,7 +21,7 @@ Se jogador1 == jogador2: draw
 * comandos de entrada e saída **stdin**
 * gerador de números aleatórios **Random**
 
-About
+About 
 - if else:
 estruturas que direcionam o fluxo de execução do código
 
