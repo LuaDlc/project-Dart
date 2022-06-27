@@ -1,16 +1,17 @@
 # project-Dart
 ## rock, paper and scissors 🎮
 
-Este projeto foi feito através deste [video](https://www.youtube.com/watch?v=XoZ01mY-cUg&t=2s)
-
-- O que é?
-Este é um jogo com dois jogadores, o usuário e a máquina
-Consiste em cada um escolher 🪨 pedra, 📰 papel ou ✂️ tesoura
+This project was made through this [video](https://www.youtube.com/watch?v=XoZ01mY-cUg&t=2s)
+Level: basic
+- Which is?
+This is a game with two players, the user and the machine.
+ It consists of each one choosing  🪨 rock, 📰 paper or ✂️ scissors
 ---
-Se jogador1 == pedra && jogador2 == tesoura: jogador1 win 
-SE jogador1 == papel && jogador2 == pedra: jogador1 win
-Se jogador1 == tesoura && jogador2 == papel: jogador1 win
-Se jogador1 == jogador2: draw 
+  program logic:
+If Player1 == rock && Player2 == scissors: Player2 win 
+If Player1 == paper && Player2 == pedra: Player1 win
+If Player1 == scissors && Player2 == paper: Player1 win
+If Player1 == Player2: draw 
 
 
 ---
