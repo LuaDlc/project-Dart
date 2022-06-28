@@ -16,27 +16,28 @@ If Player1 == Player2: draw
 
 ---
 
-**O que foi usado nesse código:**
+**What was used in this code:**
 * if else
 * while
-* comandos de entrada e saída **stdin**
-* gerador de números aleatórios **Random**
+* input and output commands **stdin**
+* random number generator **Random**
+---
+<h3>About<h3> 
 
-About 
-- if else:
-estruturas que direcionam o fluxo de execução do código
+<h4> if else: <h4>
+structures that direct the flow of code execution
 
-- while:
+ while:
 Estrutura de repetição com teste no início
 (break: dá fim á repetição)
 
-- stdtin
+stdtin
 The standard input stream of data read by this program.
 Stdin get stdin {
   return IOOverrides.current?.stdin ?? _stdin;
 }
 
-- Random
+ Random
 external factory Random([int? seed]);
 
   Creates a cryptographically secure random number generator
